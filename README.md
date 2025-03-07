@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/leesaewoo/leesaewoo/blob/main/Saewoo.png" />
+  <img src="https://github.com/leesaewoo/leesaewoo/blob/main/%EC%83%88%EC%9A%B0%EC%95%88%EA%B2%BD%2Bsaewoo.png" width="700" height="410"/>
 </div>
 
 <p align="center"">
